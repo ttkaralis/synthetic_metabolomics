@@ -24,7 +24,7 @@ This repository presents the development of generative artificial intelligence m
 The scripts, the models and the synthetic data set can be downloaded from https://zenodo.org/ using the accession number _**10.5281/zenodo.19594872**_ .
 
 
-# **How to cite us
+# **How to cite us**
 
 If you found these models useful and you used them please cite our paper:
 
