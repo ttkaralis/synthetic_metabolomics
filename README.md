@@ -1,3 +1,12 @@
+# **This is a placeholder repository for the paper:**
+
+Synthesizing metabolomics with generative artificial intelligence
+
+Theodoros Karalis, George Poulogiannis
+
+Signalling and Cancer Metabolism Laboratory, Division of Cell and Molecular Biology, The Institute of Cancer Research; 237 Fulham Road, London SW3 6JB, United Kingdom
+
+
 # **Synthesizing metabolomics with generative artificial intelligence**
 
 # **Introduction**
