@@ -18,7 +18,7 @@ Over recent decades, omics technologies have undergone substantial advances, lea
 
 This repository presents the development of generative artificial intelligence models for production of synthetic metabolomic data.
 
-![image alt](https://github.com/ttkaralis/synthetic_metabolomics_real/blob/31dde1597b0b1bb06ee4ee0ea1d1c96b4e7b83dd/image_1.jpg)
+![image alt](https://github.com/ttkaralis/synthetic_metabolomics/blob/664a6a90c541877603ca2175a94ffaf1f3e926d9/image_1.jpg)
 
 
 The scripts, the models and the synthetic data set can be downloaded from https://zenodo.org/ using the accession number _**10.5281/zenodo.19594872**_ .
